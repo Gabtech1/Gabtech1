@@ -1,15 +1,26 @@
 ### Hi there 👋
 <br>
 
-<div>
-<h3> Seja bem-vindo ao meu perfil GitHub!</h3> <br>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <h3> Seja bem-vindo ao meu perfil GitHub!</h3> <br>
 
 - 💻 Desenvolvedor Front-End
 - 📙 Sempre em busca de aperfeiçoar meus conhecimentos
 - 🎓 Veja meus projetos de <a href="https://gabtech1.github.io/Portfolio/">portfolio</a>
+
 <br>
   
 <p>
+  
+  </p>
+    </td>
+    <td style="border: 0";>
+      <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabtech1&layout=compact&theme=tokyonight&border_radius=10px"/>
+      <br>
+      <br>
+      <p align="center"> <br>
   <a href="https://www.linkedin.com/in/gabriel-aparecido-da-paix%C3%A3o-118a88226/" alt="Linkedin" target="_blank">
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a>
   <a href="mailto:GabrielAp.dev@hotmail.com" alt="E-mail" target="_blank">
@@ -17,14 +28,14 @@
   <a href="https://drive.google.com/file/d/1v-la6LR8vR-BNn9yp2LxkEcTHuKsIMSk/view?usp=share_link" alt="CV" target="_blank">
   <img width="25px" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070553557859831828/icons8-resume-48.png" > Download CV</a>
   </p>
-</div>
-
-
----
-## 🛠 Tecnologias e ferramentas 
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabtech1"/>
+    </td>
+  </tr>
+</table>
 <br>
-<p align="">
+
+## 🛠 Tecnologias e ferramentas
+<br>
+<p align="center">
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img width="45" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070554374201430056/icons8-github-48.png" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
@@ -32,12 +43,11 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>       
 </p>
-
 <br>
 
-## 📚 Dentro do meu plano de aprendizagem
+## 📚 Dentro do meu plano de aprendizagem 
 <br>
-<p align="">
+<p align="center">
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
  />
@@ -45,9 +55,7 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
 </p>
+<br>
 
 ---
-
-
