@@ -17,6 +17,7 @@
   </p>
     </td>
     <td style="border: 0";>
+    <br>
       <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabtech1&layout=compact&theme=tokyonight&border_radius=10px"/>
       <br>
       <br>
