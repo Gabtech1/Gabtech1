@@ -2,15 +2,14 @@
 <br>
 
 <div>
-<img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabtech1&layout=compact"/>
-
 <h3> Seja bem-vindo ao meu perfil GitHub!</h3> <br>
 
 - 💻 Desenvolvedor Front-End
 - 📙 Sempre em busca de aperfeiçoar meus conhecimentos
 - 🎓 Veja meus projetos de <a href="https://gabtech1.github.io/Portfolio/">portfolio</a>
 <br>
-<p align="right">
+  
+<p>
   <a href="https://www.linkedin.com/in/gabriel-aparecido-da-paix%C3%A3o-118a88226/" alt="Linkedin" target="_blank">
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a>
   <a href="mailto:GabrielAp.dev@hotmail.com" alt="E-mail" target="_blank">
@@ -20,10 +19,12 @@
   </p>
 </div>
 
+
 ---
 ## 🛠 Tecnologias e ferramentas 
+<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabtech1"/>
 <br>
-<p align="center">
+<p align="">
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img width="45" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070554374201430056/icons8-github-48.png" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
@@ -36,7 +37,7 @@
 
 ## 📚 Dentro do meu plano de aprendizagem
 <br>
-<p align="center">
+<p align="">
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
  />
@@ -45,6 +46,8 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-</p> <br>
+</p>
 
 ---
+
+
