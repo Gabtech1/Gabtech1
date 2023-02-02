@@ -2,7 +2,7 @@
 <br>
 
 <div>
-<img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabtech1&theme=gruvbox"/>
+<img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabtech1&layout=compact"/>
 
 <h3> Seja bem-vindo!</h3> <br>
 
@@ -10,13 +10,13 @@
 - 📙 Sempre em busca de aperfeiçoar meus conhecimentos
 - 🎓 Veja meus projetos de <a src="https://gabtech1.github.io/Portfolio/">portfolio</a>
 <br>
-<p>
+<p align="right">
   <a href="https://www.linkedin.com/in/gabriel-aparecido-da-paix%C3%A3o-118a88226/" alt="Linkedin" target="_blank">
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a>
+  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a>
   <a href="mailto:GabrielAp.dev@hotmail.com" alt="E-mail" target="_blank">
-  <img width="30px" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070539726290964570/icons8-mail-50.png" > E-mail</a>
+  <img width="25px" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070539726290964570/icons8-mail-50.png" > E-mail</a>
   <a href="https://drive.google.com/file/d/1v-la6LR8vR-BNn9yp2LxkEcTHuKsIMSk/view?usp=share_link" alt="CV" target="_blank">
-  <img width="30px" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070540320707723326/icons8-download-resume-48.png" > Download CV</a>
+  <img width="25px" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070540320707723326/icons8-download-resume-48.png" > Download CV</a>
   </p>
 </div>
 
