@@ -3,7 +3,7 @@
 <br>
 
 <div>
-<img align="right" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabtech1&theme=gruvbox"/>
+<img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabtech1&theme=gruvbox"/>
 
 <h3> Seja bem-vindo!</h3> <br>
 
