@@ -32,7 +32,6 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>       
 </p>
 
----
 ## 📚 Dentro do meu plano de aprendizagem
 <br>
 <p align="center">
