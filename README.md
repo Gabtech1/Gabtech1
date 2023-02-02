@@ -1,6 +1,5 @@
 ### Hi there 👋
 <br>
-<br>
 
 <div>
 <img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabtech1&theme=gruvbox"/>
