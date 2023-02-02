@@ -4,7 +4,7 @@
 <div>
 <img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabtech1&layout=compact"/>
 
-<h3> Seja bem-vindo!</h3> <br>
+<h3> Seja bem-vindo ao meu perfil GitHub!</h3> <br>
 
 - 💻 Desenvolvedor Front-End
 - 📙 Sempre em busca de aperfeiçoar meus conhecimentos
