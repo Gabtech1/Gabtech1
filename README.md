@@ -8,7 +8,7 @@
 
 - 💻 Desenvolvedor Front-End
 - 📙 Sempre em busca de aperfeiçoar meus conhecimentos
-- 🎓 Veja meus projetos de <a src="https://gabtech1.github.io/Portfolio/">portfolio</a>
+- 🎓 Veja meus projetos de <a href="https://gabtech1.github.io/Portfolio/">portfolio</a>
 <br>
 <p align="right">
   <a href="https://www.linkedin.com/in/gabriel-aparecido-da-paix%C3%A3o-118a88226/" alt="Linkedin" target="_blank">
