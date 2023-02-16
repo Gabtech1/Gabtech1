@@ -4,11 +4,11 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <h3> Seja bem-vindo ao meu perfil GitHub!</h3> <br>
+      <h3>Welcome to my GitHub!</h3> <br>
 
-- 💻 Desenvolvedor Front-End
-- 📙 Sempre em busca de aperfeiçoar meus conhecimentos
-- 🎓 Veja meus projetos de <a href="https://gabtech1.github.io/Portfolio/">portfolio</a>
+- 💻 Front-End Developer
+- 📙 Always looking to improve my knowledge
+- 🎓 Here you can see my <a href="https://gabtech1.github.io/Portfolio/">portfolio</a>
 
 <br>
   
@@ -34,7 +34,7 @@
 </table>
 <br>
 
-## 🛠 Tecnologias e ferramentas
+## 🛠 Technologies and tools
 <br>
 <p align="center">
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
@@ -46,7 +46,7 @@
 </p>
 <br>
 
-## 📚 Dentro do meu plano de aprendizagem 
+## 📚 Currently learning plan 
 <br>
 <p align="center">
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
