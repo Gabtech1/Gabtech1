@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/gabriel-aparecido-da-paix%C3%A3o-118a88226/" alt="Linkedin" target="_blank">
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a>
   <a href="mailto:GabrielAp.dev@hotmail.com" alt="E-mail" target="_blank">
-  <img width="25px" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070553045458505758/icons8-mail-48.png" > E-mail</a>
+  <img width="25px" src="https://cdn.discordapp.com/attachments/1003743714247716958/1075814133661978686/icons8-mail-100.png" > E-mail</a>
   <a href="https://drive.google.com/file/d/1v-la6LR8vR-BNn9yp2LxkEcTHuKsIMSk/view?usp=share_link" alt="CV" target="_blank">
   <img width="25px" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070553557859831828/icons8-resume-48.png" > Download CV</a>
   </p>
