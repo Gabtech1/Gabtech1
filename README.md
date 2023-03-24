@@ -8,7 +8,7 @@
 
 - 💻 Front-End Developer
 - 📙 Always looking to improve my knowledge
-- 🎓 Here you can see my <a href="https://gabtech1.github.io/Portfolio/">portfolio</a>
+- 🎓 Here you can see my <a href="https://gabdev.com.br">portfolio</a>
 
 <br>
   
@@ -26,7 +26,7 @@
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a>
   <a href="mailto:GabrielAp.dev@hotmail.com" alt="E-mail" target="_blank">
   <img width="25px" src="https://cdn.discordapp.com/attachments/1003743714247716958/1075814133661978686/icons8-mail-100.png" > E-mail</a>
-  <a href="https://drive.google.com/file/d/1v-la6LR8vR-BNn9yp2LxkEcTHuKsIMSk/view?usp=share_link" alt="CV" target="_blank">
+  <a href="https://drive.google.com/file/d/1Aakn1kbMWO8JZZz0PaD8e8ssZkwhJrpk/view?usp=share_link" alt="CV" target="_blank">
   <img width="25px" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070553557859831828/icons8-resume-48.png" > Download CV</a>
   </p>
     </td>
