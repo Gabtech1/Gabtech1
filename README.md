@@ -23,11 +23,13 @@
       <br>
       <p align="center"> <br>
   <a href="https://www.linkedin.com/in/gabriel-aparecido-da-paix%C3%A3o-118a88226/" alt="Linkedin" target="_blank">
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a>
+  <img width="30px" height="12" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> Linkedin</a>
+        
   <a href="mailto:contato@gabdev.com.br" alt="E-mail" target="_blank">
-  <img width="25px" src="https://cdn.discordapp.com/attachments/1003743714247716958/1075814133661978686/icons8-mail-100.png" > E-mail</a>
-  <a href="https://drive.google.com/file/d/1Aakn1kbMWO8JZZz0PaD8e8ssZkwhJrpk/view?usp=share_link" alt="CV" target="_blank">
-  <img width="25px" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070553557859831828/icons8-resume-48.png" > Download CV</a>
+  <img width="20px" height="12" src="https://cdn.discordapp.com/attachments/1003743714247716958/1075814133661978686/icons8-mail-100.png" > E-mail</a>
+        
+  <a href="https://gabdev.com.br/" alt="Portfolio" target="_blank">
+  <img width="20px" height="12" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070553557859831828/icons8-resume-48.png" > Portfolio</a>
   </p>
     </td>
   </tr>
@@ -40,8 +42,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <h4> 🛠 Skills </h4>
-<br>
+      <h3> 🛠 Skills </h3>
 <p align="center">
 <img width="50" height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img width="50" height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -50,11 +51,11 @@
 <img width="50" height="20" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img width="50" height="20" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>       
 </p>
-<br>
       </td>
+    
+    
 <td style="border: 0";>
-<h4> 📚 Currently learning plan </h4>
-<br>
+<h3> 📚 Currently learning plan </h3>
 <p align="center">
 <img width="50" height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img width="50" height="20" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -62,7 +63,6 @@
 <img width="50" height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img width="50" height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
-<br>
   </td>
   </tr>
 </table>
