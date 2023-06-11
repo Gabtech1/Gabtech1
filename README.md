@@ -20,8 +20,8 @@
     <br>
       <img width="380" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabtech1&layout=compact&theme=tokyonight&border_radius=10px"/>
       <br>
-      <br>
       <p align="center"> <br>
+        
   <a href="https://www.linkedin.com/in/gabriel-aparecido-da-paix%C3%A3o-118a88226/" alt="Linkedin" target="_blank">
   <img width="30px" height="12" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> Linkedin</a>
         
@@ -32,6 +32,8 @@
   <img width="20px" height="12" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070553557859831828/icons8-resume-48.png" > Portfolio</a>
   </p>
     </td>
+    
+    <br>
   </tr>
 </table>
 
