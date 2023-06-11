@@ -1,5 +1,4 @@
-### Hi there 👋
-<br>
+<h2 align="center"> Hi there 👋 </h2>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -32,8 +31,7 @@
   <img width="20px" height="12" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070553557859831828/icons8-resume-48.png" > Portfolio</a>
   </p>
     </td>
-    
-    <br>
+
   </tr>
 </table>
 
