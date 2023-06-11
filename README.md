@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
       <h3>Welcome to my GitHub!</h3> <br>
@@ -37,10 +37,10 @@
 <br>
 
 
-<table border="60" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <h2> 🛠 Skills </h2>
+      <h4> 🛠 Skills </h4>
 <br>
 <p align="center">
 <img width="50" height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -53,7 +53,7 @@
 <br>
       </td>
 <td style="border: 0";>
-<h2> 📚 Currently learning plan </h2>
+<h4> 📚 Currently learning plan </h4>
 <br>
 <p align="center">
 <img width="50" height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
