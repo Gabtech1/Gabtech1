@@ -23,12 +23,9 @@
         
   <a href="https://www.linkedin.com/in/gabriel-aparecido-da-paix%C3%A3o-118a88226/" alt="Linkedin" target="_blank">
   <img width="30px" height="12" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> Linkedin</a>
-        
+             
   <a href="mailto:contato@gabdev.com.br" alt="E-mail" target="_blank">
-  <img width="20px" height="12" src="https://cdn.discordapp.com/attachments/1003743714247716958/1075814133661978686/icons8-mail-100.png" > E-mail</a>
-        
-  <a href="https://gabdev.com.br/" alt="Portfolio" target="_blank">
-  <img width="20px" height="12" src="https://cdn.discordapp.com/attachments/1003743714247716958/1070553557859831828/icons8-resume-48.png" > Portfolio</a>
+  <img width="15px" height="12" src="https://cdn.discordapp.com/attachments/1003743714247716958/1075814133661978686/icons8-mail-100.png" > E-mail</a>
   </p>
     </td>
 
