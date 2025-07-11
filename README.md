@@ -9,7 +9,7 @@
 
 ---
 
-<h4 align="center"> 💻 Tecnologias</h4>
+<h2 align="center"> 💻 Tecnologias</h2>
 
 <p align="center">
 <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
